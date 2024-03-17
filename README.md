@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=ENK1w9P5b3o
 
 ![image](https://github.com/timbaland-ES/OnePieceFlowTransporter/assets/77269620/0235865b-3e7e-488f-bb9d-a93bc1acfc26)
 
+![image](https://github.com/timbaland-ES/OnePieceFlowTransporter/assets/77269620/be2da302-8148-4611-a33c-c8c49d49e230)
+
+![image](https://github.com/timbaland-ES/OnePieceFlowTransporter/assets/77269620/689c738c-d7b4-44a8-b774-2ccf5ba28865)

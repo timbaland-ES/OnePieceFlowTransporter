@@ -1,5 +1,5 @@
 
-# Vehicle for automatic Transportation in One-Piece-Flow Assembly Lines:
+# Concept Vehicle for automatic Transportation in One-Piece-Flow Assembly Lines:
 
 ![image](https://github.com/timbaland-ES/OnePieceFlowTransporter/assets/77269620/ada495f2-af1b-4f48-979f-506f43ed5cef)
 
@@ -21,6 +21,6 @@ https://www.youtube.com/watch?v=ENK1w9P5b3o
 ![image](https://github.com/timbaland-ES/OnePieceFlowTransporter/assets/77269620/be2da302-8148-4611-a33c-c8c49d49e230)
 
 
-## UML Action Diagram
+## UML Activity Diagram
 
 ![image](https://github.com/timbaland-ES/OnePieceFlowTransporter/assets/77269620/689c738c-d7b4-44a8-b774-2ccf5ba28865)
